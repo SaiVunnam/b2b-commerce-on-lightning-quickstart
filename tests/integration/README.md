@@ -7,3 +7,4 @@ To be run after the full Quick Start execution with the command
 ```
 sfdx force:apex:test:run -y -r human
 ```
+.......>>>>>
